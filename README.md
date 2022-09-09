@@ -1,9 +1,8 @@
 
 ![Alt Text](https://raw.githubusercontent.com/SandeepKumarYaramchitti/SandeepKumarYaramchitti/main/images/ProfileImage.gif)
 
-- 👋 Hi, I’m @mustafaYildizGitHub
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning ios development
+- 👋 Hi, I’m Mustafa
+- 👀 iOS Programming with Swift, Mobile App Development
 - 📫 How to reach me myildiz19@ku.edu.tr
 
 <!---
